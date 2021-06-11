@@ -1,0 +1,14 @@
+{
+  "name": "natours-css-scss",
+  "version": "1.0.0",
+  "description": "Natours website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mary Ann Navarrete",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
